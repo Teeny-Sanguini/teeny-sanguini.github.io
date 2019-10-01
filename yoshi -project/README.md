@@ -1,0 +1,1 @@
+This is a simple HTML page featuring Yoshi with a red dashed border around it with a yellow background. Also, if you click the picture, an alert with the message 'Yoshi', will pop up. I just made it to showcase simple HTML, CSS and JavaScript and to start making some commits. Please, if you would like to add anything to this page, please feel free to do so.
